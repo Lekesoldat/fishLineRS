@@ -5,7 +5,7 @@
 <hr>
 <br />
 
-Awfull screenshot of my terminal when adding .gitignore to this project. Pink color means that I have un-synced changes.  
+Awfull screenshot of my terminal when adding .gitignore to this project. Color codes and icons shows my git-status.
 
 
 <img src="./img/demo.png" alt="Demo" width="500"/>
