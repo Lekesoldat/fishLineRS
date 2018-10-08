@@ -1,7 +1,7 @@
 # FishLineRS: Fish Shell + Powerline-rs ❤️
 ## An in-depth tutorial on how to get what I think is a clean and functional terminal.
 
-**Disclaimer:** I am not responsible or the creator of anything used in this guide. This is simply my way of setting up fish-shell and powerline-rs to work together. _All credit goes to rightful owners_.
+**Disclaimer:** I am not responsible for any errors that might occur during the setup. Neither am I the creator of any of the programs, themes or any functionality used in this guide. This is simply my way of setting up fish-shell and powerline-rs to work together. _All credit goes to rightful owners_.
 <hr>
 <br />
 
